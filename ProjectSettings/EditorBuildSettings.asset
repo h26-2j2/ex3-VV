@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EcranTitre.unity
     guid: 495df2a814c0ce84295f70b0e99281e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Niveau01.unity
     guid: 457a430665044d94ba5f456d31a88176
   - enabled: 0
@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Niveau1.unity
     guid: 09ea16ee127a082479d24f524ce50b38
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test-DeplacementControleCamera.unity
     guid: f6114ba5de1bc6b4f8bf008f1b90d643
   m_configObjects:

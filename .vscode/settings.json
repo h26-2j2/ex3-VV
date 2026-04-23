@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ex3.slnx"
+    "dotnet.defaultSolution": "ex3-VV.slnx"
 }
